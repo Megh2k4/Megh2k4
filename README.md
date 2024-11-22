@@ -61,6 +61,12 @@ A passionate and driven **third-year Computer Science student** at McMaster Univ
 ## 📘 Relevant Coursework
 <p align="left">Data Structures & Algorithms, Automata and Computability, Databases, Concurrent Systems, Algorithms and Software Design, Principles of Programming Languages, Operating Systems, Applied Cryptography, Fundamentals of Machine Learning, Introduction to Data Mining, Computer Networks and Security</p>
 
+## Statistical Data 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
 ## 📫 How to reach me
 - [Email](mailto:joshim20@mcmaster.ca)
 - [LinkedIn](https://www.linkedin.com/in/megh-joshi/)
